@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding::0px;
+	font-size:12px;
+}
+body{
+	background-color: #D6D6D6;
+	}
+.wrap {
+	background-color: #D6D6D6;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	
+}
+.repeatinfo {
+	border:thin solid #3F6;
+	height:1000px;
+	 overflow: auto;
+	}
+.repeatinfo ul{
+	padding-right:30px;
+	background-color:#D6D6D6;
+	}
+.repeatinfo ul li{
+	background-color:#FFF;
+	border:thin solid #009;
+	list-style:none}
+.infocell {
+	border: thin solid #F30l; 
+	height: 140px;
+	padding:30px;
+}
+.img1 {
+	float:left;
+}
+.img2 {
+	float:right;
+	margin:30px;
+}
+.wordinfo{
+	float:left;
+	width:400px;
+	margin:30px;}
+.seachclassify {
+	background-color: #D6D6D6;
+	padding: 50px;
+	padding-left:200px;
+}
+.searchbutton{
+	width:50px;
+	height:32px;
+	background-color:#FC3;
+	border: thin solid #F30l;
+}
+
+.hospitalname{
+	font-size: 18px;
+	font-weight: bold;
+	color: #009;
+	display: block;
+	margin-bottom: 20px;
+	}
+.specipicinfo{
+	}
+
+
+
+
+.region li{
+	width :100px;
+	float:left;
+	list-style-type: none;
+
+	}
+.region a{
+	text-decoration:none;
+	}
+.level a{
+	text-decoration:none;
+	}
+.level li{
+	width :100px;
+	float:left;
+	list-style-type: none;
+	}
+
+.department li{
+	width :100px;
+	float:left;
+	list-style-type: none;
+	}
+.department a{
+	text-decoration:none;
+	}
+.repeatinfo li{
+	list-style-type: none;
+	}
+.pageupdown li{
+	list-style-type: none;
+	text-decoration:none;
+	border-color:#0C3;
+	float:left
+}
+.pageupdown a
+{
+	width:70px;
+	float:left;}
+
+.logo{
+	height:93px;
+	background-color:#fff;
+}
+.nav{
+	margin:0 auto;
+	height:40px;
+}
+
+.nav_middle{
+	margin:0 auto; 
+	width:100%;
+	background-color:#6CF;
+	float:left;
+	height:40px;
+
+}
+.nav_middle ul li{
+
+	list-style-type:none;
+	float:left;
+	width:100px;
+	text-align:center;
+	lint-height:40px;
+	margin-top:10px;
+	margin-right:50px;
+}
+.nav_middle ul li a{
+	text-decoration:none;
+	color:aliceblue;
+	font-size:20px;
+	font-faminly:"微软雅黑";
+}
+.nav_middle ul li a:link,.nav_middle ul li a:visted{
+	text-decoration:none;
+}
+.nav_middle a:hover,.nav_middle a:active{
+	color:#F9C327;
+}
+
+.footer_text{
+	float:left;
+	margin-left:200px;
+
+}
+.footer{
+	width:100%;
+	margin: 0 auto;
+	background-color:cornflowerblue;
+	height:100px;
+	
+
+}
+.footer_text ul li{
+	font_size:70%;
+	color:#0F0F0F;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top:10px;
+}
+

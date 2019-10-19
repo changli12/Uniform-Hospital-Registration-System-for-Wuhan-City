@@ -1,0 +1,60 @@
+body{
+/*	background-color:#F5F5F5;*/
+}
+.logo{
+	height:103px;
+	background-color:#fff;
+	margin-left:200px;
+	margin-top:30px;
+}
+.login{
+	text-align:center;
+}
+table{
+	margin:0 auto;
+	width:300px;
+	height:273px;
+	background-image:url(../images/login/u0.png);
+}
+table tr td{
+	font-family:"¿¬Ìå";
+	font-size:15px;
+	font-style:Italic;
+	color:#6CF;
+	font-weight:bold;
+	
+}
+.login_head{
+	margin-top:30px;
+	padding-top:5px; 
+	margin-left:470px;
+	width:345px;
+	height:39px;
+	background-image:url(../images/login/u20.png);
+	background-repeat:no-repeat;
+	color:#6CF;
+	font-family:"¿¬Ìå";
+	font-size:25px;
+}
+#lo{
+
+	width:70px;
+	height:37px;
+	background-image:url(../images/login/111.jpg);
+	background-repeat:no-repeat;
+	margin-left:50px;
+	margin-bottom:10px;
+}
+.remind{
+	margin-top:10px;
+	margin-left:500px;
+}
+.remind a{
+	text-decoration:none;
+	font-family:"¿¬Ìå";
+	font-size:20px;
+	color:#6CF;
+}
+.remind a:hover{
+	color:red;
+}
